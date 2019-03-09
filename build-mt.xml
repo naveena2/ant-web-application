@@ -39,8 +39,7 @@
 	<!-- class path
 
 	<!-- Define the CLASSPATH -->
-
-	<path id="master-classpath">
+        <path id="master-classpath">
 		<fileset dir="${web.home}/WEB-INF/lib">
 			<include name="*.jar"/>
 		</fileset>
