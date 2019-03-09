@@ -36,7 +36,7 @@
 		</copy>
 
 	</target>
-	<!-- class path
+	<!-- class path -->
 
 	<!-- Define the CLASSPATH -->
         <path id="master-classpath">
